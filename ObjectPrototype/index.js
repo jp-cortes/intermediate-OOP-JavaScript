@@ -17,7 +17,7 @@ const jhonny = {
 //  console.log(Object.getOwnPropertyNames(jhonny));
 
 
-    //systax
+    //syntax
 //    Object.defineProperty(obj,prop,descriptor);
  
  Object.defineProperty(jhonny, "navigator", {
